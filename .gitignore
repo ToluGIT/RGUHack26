@@ -1,0 +1,12 @@
+.DS_Store
+.playwright-mcp/
+ui-ux-pro-max/
+*.png
+loop/.next/
+loop/node_modules/
+loop/.env
+loop/.env*.local
+loop/prisma/dev.db
+loop/prisma/dev.db-journal
+loop/src/generated/
+loop/dev.db
